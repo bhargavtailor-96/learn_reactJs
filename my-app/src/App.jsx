@@ -1,9 +1,11 @@
+import Tailor from './Bhargav'
+import React from "react";
 function AppValue() {
 
   return (
-    <>
-      <h1>Hello Bhargav Tailor !!</h1>
-    </>
+      <div>
+        <Tailor />
+      </div>
   )
 }
 
